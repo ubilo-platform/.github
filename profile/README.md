@@ -1,19 +1,30 @@
-<h3 align="center">
-    <a href="https://ubilo.space" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/ubilo-platform/.github/main/profile/ubilo.svg" alt="ubilo-llama" width="10%" height="10%">
-    </a>
-    <br/>
-    <b style="color: #e15554;">u</b><b style="color: #565656;">bilo</b>
-</h3>
-
 <div align="center">
-    <h3>Socials</h3>
-    <a href="https://www.linkedin.com/company/ubilo" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="linkedin-badge" />
+    <a href="https://ubilo.space" target="_blank" rel="noopener noreferrer">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./ubilo-white.svg">
+            <img src="./ubilo-black.svg" alt="ubilo-logo" width="200" height="200">
+        </picture>
     </a>
-    <a href="https://www.instagram.com/ubilo.space_" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" alt="instagram-badge" />
-    </a>
+
+### ubilo
+
+#### _Compete smarter._
+
 </div>
 
-_<center>Stay tuned for the updates!</center>_
+<div align="center">
+
+ubilo (**u**lusal **bil**gisayar **o**limpiyatı) is a **educative** (competitive) programming platorm founded in **2023.** It's goal is to provide everyone a **safe, fun and educative** environment to _learn and compete_ as well as _improve their problem solving skills._
+
+We also establish partnerships with **companies** to boost their _recruitment_ process and help them _find_ the best _talents_ by providing **online assessment solutions** and **promotion contests.**
+
+</div>
+
+<div align="center">
+
+### Socials
+
+[![linkedin-badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/company/ubilo)
+[![instagram-badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white)](https://www.instagram.com/ubilo.space_)
+
+</div>
